@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-streak-stats.vercel.com/?user=Asosa-100&theme=default&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asosa-100&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Asosa-100&theme=default&show_icons=true&hide_border=true&layout=compact)
