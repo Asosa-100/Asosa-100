@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 and again 
 ne again 
 day 6 of 100 day of code and design maybe dont know what tpo do so 'm am adding it to  my readme file 100
-adding 
+adding you 
 adding 
 -->
 
