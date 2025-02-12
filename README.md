@@ -20,7 +20,7 @@ ne again again
 day 6 of 100 day of code and design maybe dont know what tpo do so 'm am adding it to  my readme file 100
 adding you 
 adding 
-adding another one 
+adding another one thj
 -->
 
 <!--[GitHub Stats](https://github-readme-streak-stats.vercel.com/?user=Asosa-100&theme=default&hide_border=true)-->
