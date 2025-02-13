@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 and again again 
-again j
+again jk
 ne again again 
 day 6 of 100 day of code and design maybe dont know what tpo do so 'm am adding it to  my readme file 100
 adding you 
